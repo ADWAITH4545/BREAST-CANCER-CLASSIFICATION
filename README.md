@@ -35,8 +35,7 @@ Recommending approaches for early detection and prevention.
 Tools and Technologies
 Programming Language: Python
 
-#Libraries:
-
+Libraries:
 pandas (Data Manipulation)
 
 numpy (Numerical Computation)
